@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "luisa maria tejada",
+      "empresa": "luisa",
+      "email": "luisa@correo.com",
+      "telefono": "123456",
+      "id": 28
+    },
+    {
+      "nombre": "luis",
+      "empresa": "mayaguez",
+      "email": "correo@correo.com",
+      "telefono": "456789",
+      "id": 29
+    }
+  ]
+}
